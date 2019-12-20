@@ -1,4 +1,4 @@
-// intial C source that for doing the final project (playing MIDI files)
+// intial C source for doing the final project (playing MIDI files)
 /// by Mohammad Mahdi Gheysari / FUM / 2019
 
 #include<stdio.h>
